@@ -1,4 +1,4 @@
 # sathvik-demo
 This is my first Repository
 <br>
-Author - Sathvik
+Author - Sathvik Merugu
