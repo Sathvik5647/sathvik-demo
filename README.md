@@ -1,2 +1,3 @@
 # sathvik-demo
-demo
+This is my first Repository
+Author - Sathvik
